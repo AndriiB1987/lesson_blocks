@@ -1,0 +1,52 @@
+body{
+    margin: 0;
+}
+
+
+.black {
+    width: 1000px;
+    height: 805px;
+    background: black;
+
+}
+.top {
+    margin-top: 2.5px;
+    margin-left: 2.5px;
+    width: 990px;
+    height: 100px;
+    background: orange;
+    float: left;
+}
+.bottom {
+    margin-left: 2.5px;
+    width: 990px;
+    height: 100px;
+    background:orange;
+    float: left;
+}
+.red {
+    margin-left: 2.5px;
+    width: 248px;
+    height: 600px;
+    background: rgb(255, 0, 0);
+    float: left;
+}
+
+.green {
+    width: 248px;
+    height: 600px;
+    background: rgb(64, 163, 6);
+    float: left;
+}
+.blue {
+    width: 248px;
+    height: 600px;
+    background: rgb(5, 131, 180);
+    float: left;
+}
+.enotherBlack {
+    width: 248px;
+    height: 600px;
+    background: rgb(0, 0, 0);
+    float: left;
+}
