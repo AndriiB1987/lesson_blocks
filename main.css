@@ -12,27 +12,30 @@ body{
     background: orange;
     clear: both;
 }
+.flexPart {
+    display: flex;
+    flex-direction: row;
+}
 .red {
     width: 25%;
     height: 600px;
     background: rgb(255, 0, 0);
-    float: left;
+
 }
 .green {
     width: 25%;
     height: 600px;
     background: rgb(64, 163, 6);
-    float: left;
+
 }
 .blue {
     width: 25%;
     height: 600px;
     background: rgb(5, 131, 180);
-    float: left;
+
 }
 .enotherBlack {
     width: 25%;
     height: 600px;
     background: rgb(0, 0, 0);
-    float: left;
 }
