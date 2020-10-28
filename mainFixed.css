@@ -1,0 +1,52 @@
+body {
+    margin: 0;
+}
+
+.black {
+    width: 1000px;
+    /*height: 805px;*/
+    background: black;
+    padding: 5px;
+}
+
+.top, .bottom {
+    height: 100px;
+    background: orange;
+    /*clear: both;*/
+}
+
+.bottom {
+    clear: both;
+}
+
+.flexPart {
+    display: flex;
+    /*flex-direction: row;*/
+}
+
+.red {
+    width: 25%;
+    height: 600px;
+    background: rgb(255, 0, 0);
+
+}
+
+.green {
+    width: 25%;
+    height: 600px;
+    background: rgb(64, 163, 6);
+
+}
+
+.blue {
+    width: 25%;
+    height: 600px;
+    background: rgb(5, 131, 180);
+
+}
+
+.enotherBlack {
+    width: 25%;
+    height: 600px;
+    background: rgb(0, 0, 0);
+}
